@@ -1,1 +1,3 @@
 # LLMHackathon
+
+## Alireza Ghafarollahi, MIT

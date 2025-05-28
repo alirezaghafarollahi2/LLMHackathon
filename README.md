@@ -2,6 +2,8 @@
 
 ## Alireza Ghafarollahi, MIT
 
+A gentle introduction to building LLM-driven multi-agent systems with AG2.
+
 ### Installation
 
 ```

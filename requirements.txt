@@ -1,0 +1,11 @@
+# AG2
+ag2[openai]
+ag2[gemini]
+ag2[anthropic,cohere,mistral]
+
+# llm
+openai
+
+# Jupyter
+jupyterlab
+
